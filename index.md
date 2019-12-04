@@ -7,4 +7,4 @@ IE 423 Project  Group15Part2
 4-Pelinsu Yılmaz
 5-Aslı Atakan
 
-Here is pur project
+[Here](part2group15.html)is our project part 2
